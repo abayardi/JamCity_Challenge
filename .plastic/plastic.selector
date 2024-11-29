@@ -1,0 +1,4 @@
+repository "JamCity_Test@Adri_n_Proyectos@cloud"
+  path "/"
+    br "/main"
+    co "/main"

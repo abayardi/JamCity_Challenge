@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e35b470a34da6340b59b0760e6b8278, type: 3}
+  m_Name: EmployeeSalaryConfig
+  m_EditorClassIdentifier: 
+  RoleConfigs:
+  - Role: 1
+    SalaryConfigs:
+    - Seniority: 3
+      BaseSalary: 1500
+      IncrementPercentage: 0.05
+    - Seniority: 2
+      BaseSalary: 1000
+      IncrementPercentage: 0.02
+    - Seniority: 1
+      BaseSalary: 500
+      IncrementPercentage: 0.005
+  - Role: 2
+    SalaryConfigs:
+    - Seniority: 3
+      BaseSalary: 5000
+      IncrementPercentage: 0.1
+    - Seniority: 2
+      BaseSalary: 3000
+      IncrementPercentage: 0.07
+    - Seniority: 1
+      BaseSalary: 1500
+      IncrementPercentage: 0.05
+  - Role: 3
+    SalaryConfigs:
+    - Seniority: 3
+      BaseSalary: 2000
+      IncrementPercentage: 0.05
+    - Seniority: 2
+      BaseSalary: 1200
+      IncrementPercentage: 0.025
+  - Role: 4
+    SalaryConfigs:
+    - Seniority: 3
+      BaseSalary: 2000
+      IncrementPercentage: 0.07
+    - Seniority: 1
+      BaseSalary: 800
+      IncrementPercentage: 0.04
+  - Role: 5
+    SalaryConfigs:
+    - Seniority: 3
+      BaseSalary: 4000
+      IncrementPercentage: 0.1
+    - Seniority: 2
+      BaseSalary: 2400
+      IncrementPercentage: 0.05
+  - Role: 6
+    SalaryConfigs:
+    - Seniority: 0
+      BaseSalary: 20000
+      IncrementPercentage: 1
