@@ -1,5 +1,5 @@
 JamCity - Tech Challenge
-Adrián Bayardi - 29 de noviembre del 2024
+________________
 Introducción
 Esta aplicación fue desarrollada para resolver el desafío técnico planteado, cuyo objetivo es agrupar, ordenar y calcular incrementos salariales para los empleados de una empresa multinacional de 251 trabajadores. Además de las funcionalidades solicitadas, se añadieron varias características adicionales que mejoran la interacción y flexibilidad del sistema, como la posibilidad de seleccionar exactamente qué empleados deben ser calculados para el salario o el ordenamiento de la lista de empleados según el ID, rol o seniority.
 Arquitectura General
